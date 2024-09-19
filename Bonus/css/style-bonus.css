@@ -4,3 +4,19 @@
     padding: 0;
     font-family: "Montserrat", sans-serif;
 }
+
+.title-h1{
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.background-h1{
+    margin: 10px;
+    max-width: 1024px;
+    border-radius: 20px;
+}
+
+body{
+    background-color: rgb(178, 207, 235);
+}
